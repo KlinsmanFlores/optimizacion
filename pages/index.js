@@ -16,7 +16,7 @@ export default function Home() {
         <meta property="og:image" content="/images/alemania.png" />
         <meta property="og:type" content="website" />
         {/* Etiqueta de verificación de Google Search Console */}
-        <meta name="google-site-verification" content="TU_CODIGO_DE_VERIFICACION_AQUI" />
+        <meta name="google-site-verification" content="sPzYu0q0Ys4tiGl7W1nKvZiZEG2Z4b_BehEveWP1hSM" />
       </Head>
 
       <h1>Bienvenido</h1>
