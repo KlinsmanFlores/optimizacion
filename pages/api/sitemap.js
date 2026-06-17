@@ -1,4 +1,4 @@
-const BASE_URL = "https://mi-sitio.com";
+const BASE_URL = "https://optimizacion-three.vercel.app";
 
 export default async function handler(req, res) {
   const urls = ["/", "/blog", "/contacto"]; // Agrega más rutas dinámicamente
